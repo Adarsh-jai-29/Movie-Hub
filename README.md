@@ -1,4 +1,4 @@
-# Live Link - <a target="_blank" href="https://jio-mart-replica.vercel.app/">Explore Now!</a>
+# Live Link - <a target="_blank" href="https://adarshjai-moviehub.netlify.app/">Explore Now!</a>
 
 ## Tech Stack
 
