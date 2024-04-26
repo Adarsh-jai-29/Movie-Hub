@@ -94,3 +94,19 @@ margin: .5rem;
 
  }
 
+@media screen and (max-width: 1080px) {
+  .info{
+  text-align: center;
+  }
+.image{
+  display: flex;
+  justify-content: center;
+}
+  .container{
+    max-width: 90%;
+  min-height: 371px;
+  margin: 5rem auto;
+    flex-direction: column ;
+  }
+
+}
