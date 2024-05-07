@@ -43,7 +43,7 @@
     })
     .catch(error => {
       console.error('Error fetching data:', error);
-      main.innerHTML = `<div class="error">An error occurred. Please try again later.</div>`;
+      main.innerHTML = `<div class="error">An error occurred. Check your Internet.</div>`;
     });
       myForm.submit();
   })

@@ -94,6 +94,12 @@ margin: .5rem;
 
  }
 
+ .error{
+    color: aliceblue;
+    font-size: large;
+  }
+
+
 @media screen and (max-width: 1080px) {
   .info{
   text-align: center;
@@ -109,4 +115,5 @@ margin: .5rem;
     flex-direction: column ;
   }
 
+  
 }
